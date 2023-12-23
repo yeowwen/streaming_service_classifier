@@ -1,4 +1,4 @@
-# Project Name: Streaming Service Classifier (NLP Project)
+# Project Name: Streaming Service Classifier (Web APIs & NLP)
 # Done by: Lua Yeow Wen DSIF 11
 ## Content:
 ### 1. Overview
